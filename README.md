@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nicolas Cruz</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there! 👋
+
+## About Me
+
+I'm Nicolas, a passionate developer with a focus on Java and TypeScript. I joined GitHub on April 9, 2026, and have been actively engaged in coding and project development ever since. With a total of 4 pull requests and 38 commits, I strive to contribute meaningfully to personal and collaborative projects. My interest in microservices is evident in repositories like `microservice-config` and `ncruzdev-app`.
 
 - 🔭 I’m currently working on [my-project-current](https://my-project-current.com)
 
@@ -21,23 +24,8 @@
 
 - ⚡ Fun fact **viajes y libros**
 
-<h3 align="left">Connect with me:</h3>
-<table>
-  <thead>
-    <tr>
-      <!-- <th rowspan="2">Document Type</th> -->
-      <th colspan="5" align="left">Social Networks</th>
-    </tr>
-    <tr>
-      <th><a href="https://www.linkedin.com/in/nicolascruzcarpio/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" title="LinkedIn" height="30" width="30" /></a></th>
-      <th> <a href="https://www.instagram.com/nicolascruzjc/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" title="Instagram" height="30" width="30" /></a></th>
-      <th><a href="https://dribbble.com/nicolascruz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" title="Dribbble" height="30" width="30" /></a></th>
-      <th><a href="https://www.behance.net/nicolascruzcarpio" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" title="Behance" height="30" width="30" /></a></th>
-      <th><a href="https://medium.com/@profesionaljava" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" title="Medium" height="30" width="30" /></a></th>
-    </tr>
-  </thead>  
-</table>
 
+## 🧰 My skills
 
 <table>    
   <thead>
@@ -141,12 +129,6 @@
 </table>
 
 
-# Hi there! 👋
-
-## About Me
-
-I'm Nicolas, a passionate developer with a focus on Java and TypeScript. I joined GitHub on April 9, 2026, and have been actively engaged in coding and project development ever since. With a total of 4 pull requests and 38 commits, I strive to contribute meaningfully to personal and collaborative projects. My interest in microservices is evident in repositories like `microservice-config` and `ncruzdev-app`.
-
 ## 📈 My statistics
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncruz-dev&show_icons=true&theme=tokyonight)](https://github.com/ncruz-dev/github-readme-stats)|![Nicolas Cruz Carpio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncruz-dev&show_icons=true&theme=tokyonight)|
 |---|---|
@@ -158,6 +140,23 @@ Feel free to reach out, collaborate, or discuss exciting projects. Your feedback
 - Email me at [ncruzdev@outlook.com](mailto:ncruzdev@outlook.com)
 ---
 This README was created using user-provided insights and data to offer a comprehensive overview of Nicolas's GitHub profile. Connect with Nicolas on their [GitHub profile](https://github.com/ncruz-dev) to explore more exciting projects!
+
+<h3 align="left">Connect with me:</h3>
+<table>
+  <thead>
+    <tr>
+      <!-- <th rowspan="2">Document Type</th> -->
+      <th colspan="5" align="left">Social Networks</th>
+    </tr>
+    <tr>
+      <th><a href="https://www.linkedin.com/in/nicolascruzcarpio/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" title="LinkedIn" height="30" width="30" /></a></th>
+      <th> <a href="https://www.instagram.com/nicolascruzjc/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" title="Instagram" height="30" width="30" /></a></th>
+      <th><a href="https://dribbble.com/nicolascruz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" title="Dribbble" height="30" width="30" /></a></th>
+      <th><a href="https://www.behance.net/nicolascruzcarpio" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" title="Behance" height="30" width="30" /></a></th>
+      <th><a href="https://medium.com/@profesionaljava" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" title="Medium" height="30" width="30" /></a></th>
+    </tr>
+  </thead>  
+</table>
 
 <!--
 ## 🧰 My Skills
