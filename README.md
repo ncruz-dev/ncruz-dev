@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Nicolas, a passionate developer with a focus on Java and TypeScript. I joined GitHub on April 9, 2026, and have been actively engaged in coding and project development ever since. With a total of 4 pull requests and 38 commits, I strive to contribute meaningfully to personal and collaborative projects. My interest in microservices is evident in repositories like `microservice-config` and `ncruzdev-app`.
+Senior Backend Engineer with over **+7 years of experience** designing and building **scalable and secure microservices** for **banking, payments, and electronic invoicing**. Proven track record leading mission-critical solutions in cloud environments, with strong expertise in **Java, Spring Boot, and distributed architectures**. Focus on **quality, performance, observability, and alignment with business objectives**.
 
 - 🔭 I’m currently working on [my-project-current](https://my-project-current.com)
 
@@ -32,7 +32,7 @@ I'm Nicolas, a passionate developer with a focus on Java and TypeScript. I joine
     <tr>
       <th rowspan="3">Front end</th>      
       <th colspan="4">Languages</th>
-      <th colspan="3">Frameworks & Lib</th>
+      <th colspan="5">Frameworks & Lib</th>
     </tr>
     <tr>
       <!-- front end -->
@@ -52,7 +52,7 @@ I'm Nicolas, a passionate developer with a focus on Java and TypeScript. I joine
     <tr>
       <th rowspan="2">Back end</th>
       <th colspan="3">Languages</th>
-      <th colspan="4">Frameworks | Tools</th>
+      <th colspan="5">Frameworks | Tools</th>
     </tr>
     <tr>
       <!-- back end -->
@@ -94,7 +94,7 @@ I'm Nicolas, a passionate developer with a focus on Java and TypeScript. I joine
     <tr>
       <th rowspan="3">Devops</th>
       <th colspan="3">Cloud</th>
-      <th colspan="4">CI/CD & Tools</th>
+      <th colspan="6">CI/CD & Tools</th>
     </tr>
     <tr>
       <!-- Cloud -->
