@@ -130,7 +130,7 @@ Senior Backend Engineer with over **+7 years of experience** designing and build
 
 
 ## 📈 My statistics
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncruz-dev&show_icons=true&theme=tokyonight)](https://github.com/ncruz-dev/github-readme-stats)|![Nicolas Cruz Carpio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncruz-dev&show_icons=true&theme=tokyonight)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncruz-dev&show_icons=true&theme=nord)](https://github.com/ncruz-dev/github-readme-stats)|![Nicolas Cruz Carpio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ncruz-dev&show_icons=true&theme=nord)|
 |---|---|
 
 ## Let's Connect!
