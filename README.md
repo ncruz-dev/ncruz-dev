@@ -52,7 +52,7 @@ Senior Backend Engineer with over **+7 years of experience** designing and build
     <tr>
       <th rowspan="2">Back end</th>
       <th colspan="3">Languages</th>
-      <th colspan="5">Frameworks | Tools</th>
+      <th colspan="6">Frameworks | Tools</th>
     </tr>
     <tr>
       <!-- back end -->
@@ -63,6 +63,7 @@ Senior Backend Engineer with over **+7 years of experience** designing and build
       <th><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a></th>
       <th><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></th>
       <th><a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a></th>
+      <th><a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a></th>
       <th><a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a></th>
       <th><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a></th>
     </tr>  
@@ -94,7 +95,7 @@ Senior Backend Engineer with over **+7 years of experience** designing and build
     <tr>
       <th rowspan="3">Devops</th>
       <th colspan="3">Cloud</th>
-      <th colspan="6">CI/CD & Tools</th>
+      <th colspan="5">CI/CD & Tools</th>
     </tr>
     <tr>
       <!-- Cloud -->
@@ -106,8 +107,7 @@ Senior Backend Engineer with over **+7 years of experience** designing and build
       <th><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a></th>
       <th><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a></th>
       <th><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a></th>
-      <th><a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a></th>
-      <th><a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a></th>
+      <th><a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a></th>      
     </tr>
   </thead>
   <thead>
