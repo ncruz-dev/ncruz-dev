@@ -2,7 +2,15 @@
 
 ## About Me
 
-Senior Backend Engineer with over **+7 years of experience** designing and building **scalable and secure microservices** for **banking, payments, and electronic invoicing**. Proven track record leading mission-critical solutions in cloud environments, with strong expertise in **Java, Spring Boot, and distributed architectures**. Focus on **quality, performance, observability, and alignment with business objectives**.
+Senior Backend Engineer with **7+ years of experience** designing and delivering **scalable, secure, and high-availability microservices** 🚀 for **banking, payments, and electronic invoicing platforms.**
+
+Proven track record leading **mission-critical systems in cloud environments** ☁️, driving solutions that balance **performance, resilience, and business impact.**
+
+Specialized in **Java, Spring Boot, and distributed architectures**, with strong expertise in **Azure cloud, DevOps practices, and system observability⚙️**.
+
+Adept at **optimizing system performance**, ensuring **reliability at scale**, and aligning **technical decisions with strategic business goals** 🎯.
+
+Passionate about **modern engineering practices and emerging technologies**, including **AI-driven solutions** 🤖, leveraging innovation to enhance **automation, efficiency, and decision-making processes**.
 
 - 🔭 I’m currently working on [my-project-current](https://my-project-current.com)
 
@@ -22,7 +30,7 @@ Senior Backend Engineer with over **+7 years of experience** designing and build
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nicolascruzcarpio/](https://www.linkedin.com/in/nicolascruzcarpio/)
 
-- ⚡ Fun fact **viajes y libros**
+- ⚡ Fun fact **travel and books**
 
 
 ## 🧰 My skills
@@ -30,7 +38,7 @@ Senior Backend Engineer with over **+7 years of experience** designing and build
 <table>    
   <thead>
     <tr>
-      <th rowspan="3">Front end</th>      
+      <th rowspan="2">Front end</th>      
       <th colspan="4">Languages</th>
       <th colspan="5">Frameworks & Lib</th>
     </tr>
@@ -43,7 +51,7 @@ Senior Backend Engineer with over **+7 years of experience** designing and build
     <!-- frameworks -->
       <th><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a></th>
       <th><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></th>
-      <th><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></th>
+      <th><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> </a></th>
         <th><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a></th>
         <th><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a></th>        
     </tr>
@@ -52,7 +60,7 @@ Senior Backend Engineer with over **+7 years of experience** designing and build
     <tr>
       <th rowspan="2">Back end</th>
       <th colspan="3">Languages</th>
-      <th colspan="6">Frameworks | Tools</th>
+      <th colspan="8">Frameworks | Tools</th>
     </tr>
     <tr>
       <!-- back end -->
@@ -61,6 +69,8 @@ Senior Backend Engineer with over **+7 years of experience** designing and build
       <th><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></th>    
   <!-- frameworks -->
       <th><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a></th>
+      <th><a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> </a></th>
+      <th><a href="http://jfrog.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-ar21~bgwhite.svg" alt="jfrog" width="40" height="40"/> </a></th>
       <th><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></th>
       <th><a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a></th>
       <th><a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a></th>
@@ -71,9 +81,9 @@ Senior Backend Engineer with over **+7 years of experience** designing and build
   <!-- Data bases -->
   <thead>
     <tr>
-      <th rowspan="3">Data </th>      
+      <th rowspan="2">Data </th>      
       <th colspan="8">Data Base</th>
-      <th colspan="2">Visualization</th>
+      <th colspan="3">Visualization</th>
     </tr>
     <tr>
       <!-- Data Base -->
@@ -86,6 +96,7 @@ Senior Backend Engineer with over **+7 years of experience** designing and build
       <th><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a></th>
       <th><a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a></th>
       <!-- Visualization -->
+      <th><a href="https://www.dynatrace.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" alt="dynatrace" width="40" height="40"/> </a></th>      
       <th><a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a></th>
       <th><a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a></th>
     </tr>
@@ -93,9 +104,9 @@ Senior Backend Engineer with over **+7 years of experience** designing and build
   <!-- Devops and microservices -->
   <thead>
     <tr>
-      <th rowspan="3">Devops</th>
+      <th rowspan="2">Devops</th>
       <th colspan="3">Cloud</th>
-      <th colspan="5">CI/CD & Tools</th>
+      <th colspan="6">CI/CD & Tools</th>
     </tr>
     <tr>
       <!-- Cloud -->
@@ -105,23 +116,28 @@ Senior Backend Engineer with over **+7 years of experience** designing and build
       <!-- CI/CD & Tools -->
       <th><a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a></th>
       <th><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a></th>
-      <th><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a></th>
+      <th><a href="https://hashicorp.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" alt="hashicorp" width="40" height="40"/> </a></th>
+      <th><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a></th>      
       <th><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a></th>
       <th><a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a></th>      
     </tr>
   </thead>
   <thead>
     <tr>
-      <th rowspan="3">Development</th>
-      <th colspan="3">Tools</th>
-      <th colspan="2">Design</th>
+      <th rowspan="2">Development</th>
+      <th colspan="5">Tools</th>
+      <th colspan="3">Design</th>
     </tr>
     <tr>
       <!-- Tools -->
       <th><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></th>
+      <th><a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" width="40" height="40"/> </a></th>      
       <th><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></th>
-      <th><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></th>
+      <th><a href="https://github.com/copilot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" alt="github-copilot" width="40" height="40"/></a></th>
+      <th><a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a></th>      
       <!-- Design -->
+      <img >
+      <th><a href="https://www.openapis.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" alt="openapi" width="40" height="40"/> </a></th>
       <th><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a></th>
       <th><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></th>
     </tr>
@@ -136,12 +152,11 @@ Senior Backend Engineer with over **+7 years of experience** designing and build
 ## Let's Connect!
 
 Feel free to reach out, collaborate, or discuss exciting projects. Your feedback and ideas are always welcomed!
-- Reach out on [LinkedIn](https://www.linkedin.com/username)
+<!-- - Reach out on [LinkedIn](https://www.linkedin.com/username) -->
 - Email me at [ncruzdev@outlook.com](mailto:ncruzdev@outlook.com)
----
-This README was created using user-provided insights and data to offer a comprehensive overview of Nicolas's GitHub profile. Connect with Nicolas on their [GitHub profile](https://github.com/ncruz-dev) to explore more exciting projects!
+<!-- --- -->
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <table>
   <thead>
     <tr>
