@@ -38,11 +38,12 @@ Passionate about **modern engineering practices and emerging technologies**, inc
 <table>    
   <thead>
     <tr>
-      <th rowspan="2">Front end</th>      
+      <th rowspan="3">Front end</th>      
       <th colspan="4">Languages</th>
       <th colspan="3">Frameworks & Lib</th>
+      <th colspan="2"></th>
     </tr>
-    <tr>
+    <tr>      
       <!-- front end -->
       <th><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a></th>
       <th><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></th>
@@ -54,13 +55,16 @@ Passionate about **modern engineering practices and emerging technologies**, inc
       <th><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> </a></th>
       <!-- <th><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a></th>
       <th><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a></th> -->
-    </tr>
+      <th></th>
+      <th></th>
+    </tr>        
   </thead>
   <thead>
     <tr>
-      <th rowspan="2">Back end</th>
+      <th rowspan="3">Back end</th>
       <th colspan="2">Languages</th>
       <th colspan="5">Frameworks | Tools</th>
+      <th colspan="2"></th>
     </tr>
     <tr>
       <!-- back end -->
@@ -76,6 +80,8 @@ Passionate about **modern engineering practices and emerging technologies**, inc
       <!--<th><a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a></th>-->
       <th><a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a></th>
       <!--<th><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a></th>-->
+      <th></th>
+      <th></th>
     </tr>  
   </thead>
   <!-- Data bases -->
@@ -104,9 +110,10 @@ Passionate about **modern engineering practices and emerging technologies**, inc
   <!-- Devops and microservices -->
   <thead>
     <tr>
-      <th rowspan="2">Devops</th>
+      <th rowspan="3">Devops</th>
       <th colspan="3">Cloud</th>
       <th colspan="4">CI/CD & Tools</th>
+      <th colspan="2"></th>
     </tr>
     <tr>
       <!-- Cloud -->
@@ -120,13 +127,16 @@ Passionate about **modern engineering practices and emerging technologies**, inc
       <th><a href="https://hashicorp.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" alt="hashicorp" width="40" height="40"/> </a></th>      
       <!--<th><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a></th>
       <th><a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a></th>-->
+      <th></th>
+      <th></th>
     </tr>
   </thead>
   <thead>
     <tr>
-      <th rowspan="2">Development</th>
+      <th rowspan="3">Development</th>
       <th colspan="5">Tools</th>
       <th colspan="2">Design</th>
+      <th colspan="2"></th>
     </tr>
     <tr>
       <!-- Tools -->
@@ -140,6 +150,8 @@ Passionate about **modern engineering practices and emerging technologies**, inc
       <th><a href="https://www.openapis.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" alt="openapi" width="40" height="40"/> </a></th>
       <th><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></th>
       <!-- <th><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a></th> -->
+      <th></th>
+      <th></th>
     </tr>
   </thead>
 </table>
