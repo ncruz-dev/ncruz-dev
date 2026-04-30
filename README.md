@@ -8,11 +8,11 @@ Proven track record leading **mission-critical systems in cloud environments** �
 
 Specialized in **Java, Spring Boot, and distributed architectures**, with strong expertise in **Azure cloud, DevOps practices, and system observability⚙️**.
 
-Adept at **optimizing system performance**, ensuring **reliability at scale**, and aligning **technical decisions with strategic business goals** 🎯.
+- 🎯 Adept at optimizing system performance, ensuring reliability at scale, and aligning technical.
 
-Passionate about **modern engineering practices and emerging technologies**, including **AI-driven solutions** 🤖, leveraging innovation to enhance **automation, efficiency, and decision-making processes**.
+- 🤖 Passionate about modern engineering practices and emerging technologies, including AI-driven solutions.
 
-- 🔭 I’m currently working on [my-project-current](https://my-project-current.com)
+<!-- - 🔭 I’m currently working on [my-project-current](https://my-project-current.com)
 
 - 🌱 I’m currently learning **microprofile & aws**
 
@@ -30,11 +30,10 @@ Passionate about **modern engineering practices and emerging technologies**, inc
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nicolascruzcarpio/](https://www.linkedin.com/in/nicolascruzcarpio/)
 
-- ⚡ Fun fact **travel and books**
+- ⚡ Fun fact **travel and books** -->
 
 
-## 🧰 My skills
-
+## 🧰 Techincal skills
 <table>    
   <thead>
     <tr>
