@@ -40,7 +40,7 @@ Specialized in **Java, Spring Boot, and distributed architectures**, with strong
       <th rowspan="3">Front end</th>      
       <th colspan="4">Languages</th>
       <th colspan="3">Frameworks & Lib</th>
-      <th colspan="2"></th>
+      <th colspan="5"></th>
     </tr>
     <tr>      
       <!-- front end -->
@@ -56,14 +56,16 @@ Specialized in **Java, Spring Boot, and distributed architectures**, with strong
       <th><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a></th> -->
       <th></th>
       <th></th>
+      <th></th>
+      <th></th>
     </tr>        
   </thead>
   <thead>
     <tr>
-      <th rowspan="3">Back end</th>
+      <th rowspan="2">Back end</th>
       <th colspan="2">Languages</th>
-      <th colspan="5">Frameworks | Tools</th>
-      <th colspan="2"></th>
+      <th colspan="9">Frameworks | Tools</th>
+      <!-- <th colspan="2"></th> -->
     </tr>
     <tr>
       <!-- back end -->
@@ -72,15 +74,16 @@ Specialized in **Java, Spring Boot, and distributed architectures**, with strong
       <th><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></th>    
   <!-- frameworks -->
       <th><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a></th>
-      <th><a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> </a></th>
+      <th><a href="https://spring.io/projects" target="_blank" rel="noreferrer"> <img src="https://spring.io/img/projects/spring-data.svg" alt="spring data" width="40" height="40"/> </a></th>
+      <th><a href="https://spring.io/projects" target="_blank" rel="noreferrer"> <img src="https://spring.io/img/projects/spring-cloud.svg" alt="express" width="40" height="40"/> </a></th>
+      <th><a href="https://spring.io/projects" target="_blank" rel="noreferrer"> <img src="https://spring.io/img/projects/spring-security.svg" alt="spring cloud" width="40" height="40"/> </a></th>
+      <th><a href="https://spring.io/projects" target="_blank" rel="noreferrer"> <img src="https://spring.io/img/projects/spring-framework.svg?v=2" alt="spring reactive" width="40" height="40"/> </a></th>
       <th><a href="http://jfrog.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jfrog/jfrog-ar21~bgwhite.svg" alt="jfrog" width="40" height="40"/> </a></th>
       <!-- <th><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></th> -->
       <th><a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a></th>
-      <!--<th><a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a></th>-->
+      <th><a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a></th>
       <th><a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a></th>
-      <!--<th><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a></th>-->
-      <th></th>
-      <th></th>
+      <!--<th><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a></th>-->            
     </tr>  
   </thead>
   <!-- Data bases -->
@@ -89,6 +92,7 @@ Specialized in **Java, Spring Boot, and distributed architectures**, with strong
       <th rowspan="2">Data </th>      
       <th colspan="6">Data Base</th>
       <th colspan="3">Visualization</th>
+      <th colspan="4"></th>
     </tr>
     <tr>
       <!-- Data Base -->
@@ -104,6 +108,8 @@ Specialized in **Java, Spring Boot, and distributed architectures**, with strong
       <th><a href="https://www.dynatrace.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dynatrace/dynatrace-icon.svg" alt="dynatrace" width="40" height="40"/> </a></th>      
       <th><a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a></th>
       <th><a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a></th>
+      <th></th>
+      <th></th>      
     </tr>
   </thead>
   <!-- Devops and microservices -->
@@ -112,7 +118,7 @@ Specialized in **Java, Spring Boot, and distributed architectures**, with strong
       <th rowspan="3">Devops</th>
       <th colspan="3">Cloud</th>
       <th colspan="4">CI/CD & Tools</th>
-      <th colspan="2"></th>
+      <th colspan="4"></th>
     </tr>
     <tr>
       <!-- Cloud -->
@@ -128,6 +134,8 @@ Specialized in **Java, Spring Boot, and distributed architectures**, with strong
       <th><a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a></th>-->
       <th></th>
       <th></th>
+      <th></th>
+      <th></th>
     </tr>
   </thead>
   <thead>
@@ -135,7 +143,7 @@ Specialized in **Java, Spring Boot, and distributed architectures**, with strong
       <th rowspan="3">Development</th>
       <th colspan="5">Tools</th>
       <th colspan="2">Design</th>
-      <th colspan="2"></th>
+      <th colspan="4"></th>
     </tr>
     <tr>
       <!-- Tools -->
@@ -149,6 +157,8 @@ Specialized in **Java, Spring Boot, and distributed architectures**, with strong
       <th><a href="https://www.openapis.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" alt="openapi" width="40" height="40"/> </a></th>
       <th><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></th>
       <!-- <th><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a></th> -->
+      <th></th>
+      <th></th>
       <th></th>
       <th></th>
     </tr>
