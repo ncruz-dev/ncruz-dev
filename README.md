@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-## About Me.
+## About Me
 
 Senior Backend Engineer with **7+ years of experience** designing and delivering **scalable, secure, and high-availability microservices** 🚀 for **banking, payments, and electronic invoicing platforms.**
 
