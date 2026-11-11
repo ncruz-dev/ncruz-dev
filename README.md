@@ -4,7 +4,7 @@
 
 Senior Backend Engineer with **7+ years of experience** designing and delivering **scalable, secure, and high-availability microservices** 🚀 for **banking, payments, and electronic invoicing platforms.**
 
-Proven track record leading **mission-critical systems in cloud environments** ☁️, driving solutions that balance **performance, resilience, and business impact.**
+Proven track record leading **mission-critical systems in cloud environments** ☁️, driving solutions that balance **performance, resilience, and business impact**.
 
 Specialized in **Java, Spring Boot, and distributed architectures**, with strong expertise in **Azure cloud, DevOps practices, and system observability⚙️**.
 
